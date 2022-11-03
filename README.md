@@ -46,6 +46,7 @@ cp ~/.config/zsh/zshrc-pi ~/.zshrc
 ## Vim
 
 Install
+
 ```bash
 sudo apt install vim -y
 
