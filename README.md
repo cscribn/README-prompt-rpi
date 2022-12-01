@@ -36,7 +36,6 @@ Install
 
 ```bash
 sudo apt install zsh -y
-rm -rf ~/.config/zsh
 
 git clone https://github.com/cscribn/config-zsh.git  ~/.config/zsh
 
