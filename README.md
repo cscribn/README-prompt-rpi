@@ -30,6 +30,14 @@ sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/
 sudo chmod +x /usr/local/bin/oh-my-posh
 ```
 
+## Lsd
+
+```bash
+curl https://sh.rustup.rs -sSf | sh
+
+cargo install lsd
+```
+
 ## Zsh
 
 Install
