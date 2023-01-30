@@ -1,6 +1,6 @@
 # README-prompt-rpi
 
-Instructions on how to make your Raspberry Pi (and probably other Debian install) prompts to look like the following.
+Instructions on how to make your Raspberry Pi (and probably other Debian install) prompts to look like the screenshot.
 
 ![prompt](./images/prompt.png)
 
